@@ -1,3 +1,10 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+
+
+
 # BuildaBet.py
 # Required packages: streamlit, pandas, requests, beautifulsoup4
 
